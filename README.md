@@ -21,10 +21,7 @@
 
 <br/>
 
-![YT Duration Calc Screenshot](https://via.placeholder.com/900x500/0a0a0f/ff4444?text=YT+Duration+Calc+Screenshot)
-
-</div>
-
+!
 ---
 
 ## ✨ Features
@@ -123,7 +120,7 @@ yt-duration-calc/
 
 ---
 
-## 🧮 Technical Deep-Dive
+## Technical Deep-Dive
 
 ### ISO 8601 → Seconds
 
