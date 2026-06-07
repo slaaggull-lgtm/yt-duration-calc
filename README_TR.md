@@ -21,7 +21,6 @@
 
 <br/>
 
-![YT Duration Calc Ekran Görüntüsü](https://via.placeholder.com/900x500/0a0a0f/ff4444?text=YT+Duration+Calc+Ekran+Görüntüsü)
 
 </div>
 
@@ -46,17 +45,8 @@
 
 ---
 
-## 📸 Ekran Görüntüleri
 
-<div align="center">
 
-| Giriş Ekranı | Sonuçlar ve Hız Analizi |
-|:---:|:---:|
-| ![Giriş](https://via.placeholder.com/420x280/111118/ff4444?text=Giriş+Ekranı) | ![Sonuçlar](https://via.placeholder.com/420x280/111118/ff4444?text=Sonuç+Ekranı) |
-
-</div>
-
----
 
 ## 🚀 Başlangıç
 
@@ -131,7 +121,7 @@ yt-duration-calc/
 
 ---
 
-## 🧮 Teknik Detaylar
+##  Teknik Detaylar
 
 ### ISO 8601 → Saniye Dönüşümü
 
@@ -233,8 +223,4 @@ MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için [`LICENSE`](LI
 
 ---
 
-<div align="center">
 
-❤ ile yapıldı · Faydalıysa lütfen ⭐ ver!
-
-</div>
