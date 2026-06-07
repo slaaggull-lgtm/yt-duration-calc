@@ -17,7 +17,7 @@
 
 **Calculate total duration of any YouTube playlist — with per-video breakdown, playback speed analysis, and CSV export.**
 
-[🚀 Live Demo](#) · [📖 How to Get API Key](#-getting-a-youtube-api-key) · [🐛 Report Bug](../../issues) · [✨ Request Feature](../../issues)
+[🚀 Live Demo](https://slaaggull-lgtm.github.io/yt-duration-calc/) · [📖 How to Get API Key](#-getting-a-youtube-api-key) · [🐛 Report Bug](../../issues) · [✨ Request Feature](../../issues)
 
 <br/>
 
