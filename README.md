@@ -46,17 +46,9 @@
 
 ---
 
-## 📸 Screenshots
 
-<div align="center">
 
-| Hero & Input | Results & Speed Analysis |
-|:---:|:---:|
-| ![Input](https://via.placeholder.com/420x280/111118/ff4444?text=Input+Screen) | ![Results](https://via.placeholder.com/420x280/111118/ff4444?text=Results+Screen) |
 
-</div>
-
----
 
 ## 🚀 Getting Started
 
@@ -233,8 +225,4 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 ---
 
-<div align="center">
 
-Made with ❤ · If this helped you, please ⭐ the repo!
-
-</div>
