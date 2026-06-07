@@ -17,7 +17,7 @@
 
 **Herhangi bir YouTube oynatma listesinin toplam süresini hesapla — video bazlı kırılım, oynatma hızı analizi ve CSV dışa aktarımıyla birlikte.**
 
-[🚀 Canlı Demo](#) · [📖 API Anahtarı Nasıl Alınır?](#-youtube-api-anahtarı-alma) · [🐛 Hata Bildir](../../issues) · [✨ Özellik İste](../../issues)
+[🚀 Canlı Demo](https://slaaggull-lgtm.github.io/yt-duration-calc/) · [📖 API Anahtarı Nasıl Alınır?](#-youtube-api-anahtarı-alma) · [🐛 Hata Bildir](../../issues) · [✨ Özellik İste](../../issues)
 
 <br/>
 
