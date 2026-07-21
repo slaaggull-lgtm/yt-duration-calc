@@ -19,6 +19,14 @@
 
 [🚀 Live Demo](https://slaaggull-lgtm.github.io/yt-duration-calc/) · [📖 How to Get API Key](#-getting-a-youtube-api-key) · [🐛 Report Bug](../../issues) · [✨ Request Feature](../../issues)
 
+
+
+
+<img width="2911" height="1653" alt="Ekran Resmi 2026-07-21 18 18 42" src="https://github.com/user-attachments/assets/89540bf8-8bec-458c-93f7-8310ea60dee1" />
+
+
+
+
 <br/>
 
 
@@ -40,6 +48,13 @@
 | 📱 **Responsive** | Fully responsive; works on mobile, tablet, and desktop |
 | 🌙 **Dark Theme** | Sleek dark editorial UI — easy on the eyes |
 | ⚡ **Zero Dependencies** | Pure HTML + CSS + JS — no npm, no bundler, no framework |
+
+
+
+<img width="2919" height="1651" alt="Ekran Resmi 2026-07-21 18 19 03" src="https://github.com/user-attachments/assets/3ef596b9-9cfa-4719-8bad-c1637de1a9da" />
+
+
+
 
 ---
 
